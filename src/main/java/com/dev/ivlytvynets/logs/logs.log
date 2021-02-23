@@ -200,4 +200,3 @@
  09:17:43,612 INFO  MyThread:18 - Thread-1 value=99
  09:17:43,612 INFO  MyThread:18 - Thread-1 value=100
  09:17:43,613 INFO  MyThread:18 - Thread-1 value=101
- 
